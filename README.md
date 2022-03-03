@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @richimachine
 - 👀 I’m interested in JS, and web developping.
-- 🌱 I’m currently learning Html, Css, JS...
+- 🌱 I’m currently learning Html, Css, JS, NodeJS, Express, MongoDB...
 - 💞️ I’m looking to collaborate on myself
 - 📫 How to reach me linkedin: Ricardo Alesina
 
